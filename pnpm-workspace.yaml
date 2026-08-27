@@ -1,0 +1,7 @@
+trustPolicy: no-downgrade
+engineStrict: true
+minimumReleaseAge: 1440
+minimumReleaseAgeStrict: true
+allowBuilds:
+  better-sqlite3: true
+  esbuild: true
